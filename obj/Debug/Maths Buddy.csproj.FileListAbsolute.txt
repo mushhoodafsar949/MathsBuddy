@@ -1,0 +1,14 @@
+C:\Users\mushh\source\repos\Maths Buddy\bin\Debug\Maths Buddy.exe.config
+C:\Users\mushh\source\repos\Maths Buddy\bin\Debug\Maths Buddy.exe
+C:\Users\mushh\source\repos\Maths Buddy\bin\Debug\Maths Buddy.pdb
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths_Buddy.Addition_Form.resources
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths_Buddy.Division_Form.resources
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths_Buddy.Main_Form.resources
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths_Buddy.Multiplication_Form.resources
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths_Buddy.Properties.Resources.resources
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths_Buddy.Subtraction_Form.resources
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths Buddy.csproj.GenerateResource.cache
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths Buddy.csproj.CoreCompileInputs.cache
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths Buddy.exe
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths Buddy.pdb
+C:\Users\mushh\source\repos\Maths Buddy\obj\Debug\Maths Buddy.csproj.AssemblyReference.cache
